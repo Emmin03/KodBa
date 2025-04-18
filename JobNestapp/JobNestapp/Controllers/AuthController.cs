@@ -2,7 +2,7 @@
 using JobNestapp.Models;
 using JobNestapp.Data;
 using JobNestapp.Services;
-using BCrypt.Net;
+using Microsoft.EntityFrameworkCore;
 
 namespace JobNestapp.Controllers
 {
@@ -20,20 +20,29 @@ namespace JobNestapp.Controllers
         }
 
         [HttpPost("signup")]
-        public IActionResult SignUp([FromBody] User user)
+        public async Task<IActionResult> Signup([FromBody] User user)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            if (await _context.Users.AnyAsync(u => u.Email == user.Email))
+                return BadRequest("Email already exists");
+
             user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);
             _context.Users.Add(user);
-            _context.SaveChanges();
-            return Ok(new { Message = "Account created" });
+            await _context.SaveChangesAsync();
+
+            return Ok("User created successfully");
         }
 
         [HttpPost("login")]
-        public IActionResult Login([FromBody] LoginRequest request)
+        public async Task<IActionResult> Login([FromBody] LoginRequest request)
         {
-            var user = _context.Users.FirstOrDefault(u => u.Email == request.Email);
+            var user = await _context.Users
+                .FirstOrDefaultAsync(u => u.Email == request.Email);
+
             if (user == null || !BCrypt.Net.BCrypt.Verify(request.Password, user.PasswordHash))
-                return Unauthorized(new { Message = "Invalid credentials" });
+                return Unauthorized("Invalid credentials");
 
             var token = _jwtService.GenerateToken(user);
             return Ok(new { Token = token });
@@ -42,7 +51,7 @@ namespace JobNestapp.Controllers
 
     public class LoginRequest
     {
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public string? Email { get; set; }
+        public string? Password { get; set; }
     }
 }

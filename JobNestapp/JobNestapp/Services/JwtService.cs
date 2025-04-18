@@ -1,8 +1,8 @@
-﻿using Microsoft.IdentityModel.Tokens;
-using System.IdentityModel.Tokens.Jwt;
+﻿using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using JobNestapp.Models;
+using Microsoft.IdentityModel.Tokens;
 
 namespace JobNestapp.Services
 {
@@ -10,9 +10,9 @@ namespace JobNestapp.Services
     {
         private readonly string _secret;
 
-        public JwtService(IConfiguration config)
+        public JwtService(string secret)
         {
-            _secret = config["Jwt:Secret"];
+            _secret = secret ?? throw new ArgumentNullException(nameof(secret));
         }
 
         public string GenerateToken(User user)
@@ -23,8 +23,9 @@ namespace JobNestapp.Services
             {
                 Subject = new ClaimsIdentity(new[]
                 {
-                    new Claim(ClaimTypes.Name, user.Name),
-                    new Claim(ClaimTypes.Email, user.Email)
+                    new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                    new Claim(ClaimTypes.Name, user.Name ?? string.Empty),
+                    new Claim(ClaimTypes.Email, user.Email ?? string.Empty)
                 }),
                 Expires = DateTime.UtcNow.AddDays(7),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
