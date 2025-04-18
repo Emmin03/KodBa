@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobNestapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17efa12c65659bd7f6601ba4aa9917fa3a68a86f")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobNestapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobNestapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

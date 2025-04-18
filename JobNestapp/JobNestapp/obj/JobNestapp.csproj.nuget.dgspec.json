@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\JobNestapp.csproj": {}
+    "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\JobNestapp.csproj": {
+    "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\JobNestapp.csproj",
+        "projectUniqueName": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj",
         "projectName": "JobNestapp",
-        "projectPath": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\JobNestapp.csproj",
+        "projectPath": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj",
         "packagesPath": "C:\\Users\\DT User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\obj\\",
+        "outputPath": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -55,29 +55,37 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.1.2, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -85,7 +93,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[8.1.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
