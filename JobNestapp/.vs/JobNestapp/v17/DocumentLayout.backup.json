@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DT User\\Desktop\\JobNestApp\\",
+  "WorkspaceRootPath": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\jobnestapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\jobnestapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\jobnestapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\messagespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\messagespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\messagespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\platforms\\android\\androidmanifest.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,122 +32,122 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.408\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\applicationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\applicationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\applicationspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\messagespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\messagespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\messagespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\applicationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\applicationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\applicationspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DT User\\.nuget\\packages\\communitytoolkit.maui\\9.0.0\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\services\\localdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\services\\localdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\services\\localdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|c:\\users\\dt user\\documents\\github\\kodba\\jobnestapp\\jobnestapp\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4495B26-7237-4B1B-9920-1350EE691C11}|JobNestApp\\JobNestApp.csproj|solutionrelative:jobnestapp\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -172,23 +172,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "JobNestApp.csproj",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestApp\\JobNestApp.csproj",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestApp\\JobNestApp.csproj",
               "RelativeDocumentMoniker": "JobNestApp\\JobNestApp.csproj",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestApp\\JobNestApp.csproj",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestApp\\JobNestApp.csproj",
               "RelativeToolTip": "JobNestApp\\JobNestApp.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAnwBgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T09:10:19.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T09:10:19.941Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\MauiProgram.cs",
-              "RelativeToolTip": "JobNestApp\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\MauiProgram.cs",
+              "RelativeToolTip": "JobNestapp\\MauiProgram.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAkwGIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:11:31.249Z"
@@ -198,9 +197,9 @@
               "DocumentIndex": 7,
               "Title": "Microsoft.NET.Sdk.ImportWorkloads.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.408\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.408\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.408\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.408\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.408\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.408\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.ImportWorkloads.targets",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwCUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-05-11T13:44:31.925Z"
@@ -209,10 +208,10 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "JobNestApp\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "JobNestApp\\Platforms\\Android\\AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "JobNestapp\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "JobNestapp\\Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-05-11T09:56:58.055Z"
@@ -222,9 +221,9 @@
               "DocumentIndex": 3,
               "Title": "Xamarin.Android.Aapt2.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Aapt2.targets",
               "ViewState": "AgIAAOcAAAAAAAAAAAAYwPoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-05-11T09:56:53.912Z"
@@ -233,23 +232,22 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MessagesPage.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MessagesPage.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\MessagesPage.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MessagesPage.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\MessagesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MessagesPage.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\MessagesPage.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MessagesPage.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\MessagesPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-11T09:33:53.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T09:33:53.076Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProfilePage.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ProfilePage.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\ProfilePage.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ProfilePage.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\ProfilePage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-11T09:34:33.318Z",
@@ -259,10 +257,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\App.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\App.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\App.xaml",
-              "RelativeToolTip": "JobNestApp\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\App.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\App.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\App.xaml",
+              "RelativeToolTip": "JobNestapp\\App.xaml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwBUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-11T09:11:53.213Z",
@@ -272,23 +270,22 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "ApplicationsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ApplicationsPage.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\ApplicationsPage.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ApplicationsPage.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\ApplicationsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ApplicationsPage.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\ApplicationsPage.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ApplicationsPage.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\ApplicationsPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-11T09:22:06.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T09:22:06.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Xamarin.Android.Tooling.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Tooling.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Tooling.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Tooling.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Tooling.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Tooling.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.154\\tools\\Xamarin.Android.Tooling.targets",
               "ViewState": "AgIAAFkAAAAAAAAAAAAIwGMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-05-11T14:42:56.776Z"
@@ -297,62 +294,58 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SearchPage.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SearchPage.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\SearchPage.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SearchPage.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SearchPage.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\SearchPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-11T09:21:37.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T09:21:37.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MainPage.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MainPage.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\MainPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-11T09:20:36.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T09:20:36.11Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "SignupPage.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SignupPage.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\SignupPage.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SignupPage.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\SignupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SignupPage.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\SignupPage.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SignupPage.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\SignupPage.xaml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwBMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-11T09:19:20.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T09:19:20.598Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\LoginPage.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\LoginPage.xaml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-11T09:18:02.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T09:18:02.137Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "MessagesPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MessagesPage.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\MessagesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MessagesPage.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\MessagesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MessagesPage.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\MessagesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MessagesPage.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\MessagesPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:34:00.832Z"
@@ -361,10 +354,10 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "JobNestApp\\Platforms\\Android\\MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "JobNestapp\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAArwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:52:47.163Z"
@@ -373,10 +366,10 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "AppDelegate.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\iOS\\AppDelegate.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Platforms\\iOS\\AppDelegate.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\iOS\\AppDelegate.cs",
-              "RelativeToolTip": "JobNestApp\\Platforms\\iOS\\AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "JobNestapp\\Platforms\\iOS\\AppDelegate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:53:14.029Z"
@@ -385,10 +378,10 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "AppDelegate.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "RelativeToolTip": "JobNestApp\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeToolTip": "JobNestapp\\Platforms\\MacCatalyst\\AppDelegate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:53:19.58Z"
@@ -397,10 +390,10 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\Windows\\App.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Platforms\\Windows\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Platforms\\Windows\\App.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Platforms\\Windows\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Platforms\\Windows\\App.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAArwBYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:53:25.448Z"
@@ -409,10 +402,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\App.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\App.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:11:58.385Z"
@@ -421,10 +414,10 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\AppShell.xaml",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\AppShell.xaml",
-              "RelativeToolTip": "JobNestApp\\Pages\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\AppShell.xaml",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\AppShell.xaml",
+              "RelativeToolTip": "JobNestapp\\Pages\\AppShell.xaml",
               "ViewState": "AgIAAAsAAAAAAAAAAAAkwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-11T09:19:50.877Z"
@@ -433,10 +426,10 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\AppShell.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\AppShell.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:19:58.788Z"
@@ -445,10 +438,10 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "JobApplication.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\JobApplication.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Models\\JobApplication.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\JobApplication.cs",
-              "RelativeToolTip": "JobNestApp\\Models\\JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\JobApplication.cs",
+              "RelativeToolTip": "JobNestapp\\Models\\JobApplication.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:13:14.178Z"
@@ -457,10 +450,10 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "ProfilePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ProfilePage.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\ProfilePage.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ProfilePage.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\ProfilePage.xaml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:34:40.239Z"
@@ -469,10 +462,10 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "SearchPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SearchPage.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\SearchPage.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SearchPage.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SearchPage.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\SearchPage.xaml.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:21:48.556Z"
@@ -481,10 +474,10 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\MainPage.xaml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAkwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:20:49.994Z"
@@ -493,10 +486,10 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "ApplicationsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ApplicationsPage.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\ApplicationsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\ApplicationsPage.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\ApplicationsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ApplicationsPage.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\ApplicationsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\ApplicationsPage.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\ApplicationsPage.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA5wBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:22:14.681Z"
@@ -505,10 +498,10 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "SignupPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SignupPage.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\SignupPage.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\SignupPage.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\SignupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SignupPage.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\SignupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\SignupPage.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\SignupPage.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:19:27.919Z"
@@ -517,10 +510,10 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Pages\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Pages\\LoginPage.xaml.cs",
-              "RelativeToolTip": "JobNestApp\\Pages\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "JobNestapp\\Pages\\LoginPage.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA5wCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:18:58.206Z"
@@ -530,9 +523,9 @@
               "DocumentIndex": 29,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\DT User\\.nuget\\packages\\communitytoolkit.maui\\9.0.0\\ReadMe.txt",
-              "RelativeDocumentMoniker": "..\\..\\.nuget\\packages\\communitytoolkit.maui\\9.0.0\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\9.0.0\\ReadMe.txt",
               "ToolTip": "C:\\Users\\DT User\\.nuget\\packages\\communitytoolkit.maui\\9.0.0\\ReadMe.txt",
-              "RelativeToolTip": "..\\..\\.nuget\\packages\\communitytoolkit.maui\\9.0.0\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\9.0.0\\ReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-05-11T09:26:02.599Z"
@@ -541,10 +534,10 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "LocalDataService.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Services\\LocalDataService.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Services\\LocalDataService.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Services\\LocalDataService.cs",
-              "RelativeToolTip": "JobNestApp\\Services\\LocalDataService.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Services\\LocalDataService.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Services\\LocalDataService.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Services\\LocalDataService.cs",
+              "RelativeToolTip": "JobNestapp\\Services\\LocalDataService.cs",
               "ViewState": "AgIAAI8CAAAAAAAAAAAkwKECAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:15:41.274Z"
@@ -553,10 +546,10 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Services\\ApiService.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Services\\ApiService.cs",
-              "RelativeToolTip": "JobNestApp\\Services\\ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Services\\ApiService.cs",
+              "RelativeToolTip": "JobNestapp\\Services\\ApiService.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAwwFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:15:21.476Z"
@@ -565,10 +558,10 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "IDataService.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Services\\IDataService.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Services\\IDataService.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Services\\IDataService.cs",
-              "RelativeToolTip": "JobNestApp\\Services\\IDataService.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Services\\IDataService.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Services\\IDataService.cs",
+              "RelativeToolTip": "JobNestapp\\Services\\IDataService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA5wCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:15:03.615Z"
@@ -577,10 +570,10 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\User.cs",
-              "RelativeToolTip": "JobNestApp\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\User.cs",
+              "RelativeToolTip": "JobNestapp\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:14:36.75Z"
@@ -589,10 +582,10 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Models\\Notification.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Notification.cs",
-              "RelativeToolTip": "JobNestApp\\Models\\Notification.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Notification.cs",
+              "RelativeToolTip": "JobNestapp\\Models\\Notification.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:14:21.702Z"
@@ -601,10 +594,10 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Message.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Message.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Models\\Message.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Message.cs",
-              "RelativeToolTip": "JobNestApp\\Models\\Message.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Message.cs",
+              "RelativeToolTip": "JobNestapp\\Models\\Message.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA/wA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:13:59.131Z"
@@ -613,10 +606,10 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Job.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Models\\Job.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Job.cs",
-              "RelativeToolTip": "JobNestApp\\Models\\Job.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Models\\Job.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Job.cs",
+              "RelativeToolTip": "JobNestapp\\Models\\Job.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:13:44.242Z"
@@ -625,10 +618,10 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Company.cs",
-              "RelativeDocumentMoniker": "JobNestApp\\Models\\Company.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestApp\\JobNestApp\\Models\\Company.cs",
-              "RelativeToolTip": "JobNestApp\\Models\\Company.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestapp\\Models\\Company.cs",
+              "RelativeToolTip": "JobNestapp\\Models\\Company.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAgwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T09:12:53.671Z"
