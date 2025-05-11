@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JobsNestApp.Pages.ApplicationsPage"
+             BackgroundColor="{StaticResource BackgroundColor}">
+    <Grid RowDefinitions="Auto, *, Auto" Padding="20">
+        <Label Grid.Row="0" Text="Prijave" FontSize="30" HorizontalOptions="Center" TextColor="{StaticResource PrimaryColor}" Margin="0,20,0,0" />
+        <VerticalStackLayout Grid.Row="1" Spacing="15" VerticalOptions="Center">
+            <Button Text="Prijavi se na Posao" Clicked="OnApplyClicked" BackgroundColor="{StaticResource PrimaryColor}" TextColor="White" CornerRadius="10" />
+            <Button Text="Prikaži Prijave" Clicked="OnShowApplicationsClicked" BackgroundColor="{StaticResource SecondaryColor}" TextColor="White" CornerRadius="10" />
+            <Label x:Name="ApplicationsLabel" TextColor="{StaticResource TextColor}" FontSize="16" />
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

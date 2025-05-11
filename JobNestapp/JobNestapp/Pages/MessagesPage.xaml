@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JobsNestApp.Pages.MessagesPage"
+             BackgroundColor="{StaticResource BackgroundColor}">
+    <Grid RowDefinitions="Auto, *" Padding="20">
+        <Label Grid.Row="0" Text="Poruke" FontSize="30" HorizontalOptions="Center" TextColor="{StaticResource PrimaryColor}" Margin="0,20,0,0" />
+        <VerticalStackLayout Grid.Row="1" VerticalOptions="Center" HorizontalOptions="Center">
+            <Label Text="Funkcionalnost poruka još nije implementirana." TextColor="{StaticResource TextColor}" FontSize="18" HorizontalOptions="Center" />
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
