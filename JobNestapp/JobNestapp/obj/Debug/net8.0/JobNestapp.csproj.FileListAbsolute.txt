@@ -366,3 +366,14 @@ C:\Users\DT User\Desktop\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp
 C:\Users\DT User\Desktop\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\ref\JobNestapp.dll
 C:\Users\DT User\Desktop\KodBa\JobNestapp\JobNestapp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\DT User\Desktop\KodBa\JobNestapp\JobNestapp\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.csproj.AssemblyReference.cache
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.AssemblyInfoInputs.cache
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.AssemblyInfo.cs
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.sourcelink.json
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.dll
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\refint\JobNestapp.dll
+C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestapp\obj\Debug\net8.0\JobNestapp.pdb

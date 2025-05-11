@@ -1,0 +1,83 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android34.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = JobNestApp
+build_property.ProjectDir = C:\Users\DT User\Documents\GitHub\KodBa\JobNestapp\JobNestApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/ApplicationsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.ApplicationsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ApplicationsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ApplicationsPage.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AppShell.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/MessagesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.MessagesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MessagesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MessagesPage.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SearchPage.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Pages/SignupPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Pages.SignupPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SignupPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SignupPage.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/DT User/Documents/GitHub/KodBa/JobNestapp/JobNestApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = JobNestApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

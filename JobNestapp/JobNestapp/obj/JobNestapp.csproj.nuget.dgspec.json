@@ -1,18 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj": {}
+    "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestApp\\JobNestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj": {
+    "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestApp\\JobNestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj",
-        "projectName": "JobNestapp",
-        "projectPath": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\JobNestapp.csproj",
+        "projectUniqueName": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestApp\\JobNestApp.csproj",
+        "projectName": "JobNestApp",
+        "projectPath": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestApp\\JobNestApp.csproj",
         "packagesPath": "C:\\Users\\DT User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\obj\\",
+        "outputPath": "C:\\Users\\DT User\\Documents\\GitHub\\KodBa\\JobNestapp\\JobNestApp\\obj\\",
         "projectStyle": "PackageReference",
+        "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
@@ -22,7 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net8.0-android34.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +31,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net8.0-android34.0": {
+            "targetAlias": "net8.0-android34.0",
             "projectReferences": {}
           }
         },
@@ -44,56 +45,37 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net8.0-android34.0": {
+          "targetAlias": "net8.0-android34.0",
           "dependencies": {
-            "BCrypt.Net-Next": {
+            "CommunityToolkit.Maui": {
               "target": "Package",
-              "version": "[4.0.3, )"
+              "version": "[8.0.1, )"
             },
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.Data.Sqlite": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Maui.Controls": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.Maui.Controls.Compatibility": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Microsoft.IdentityModel.Tokens": {
-              "target": "Package",
-              "version": "[8.1.2, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.21.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[8.0.15, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -108,14 +90,28 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
+            "Microsoft.Android": {
+              "privateAssets": "all"
             },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "android-arm": {
+          "#import": []
+        },
+        "android-arm64": {
+          "#import": []
+        },
+        "android-x64": {
+          "#import": []
+        },
+        "android-x86": {
+          "#import": []
         }
       }
     }
