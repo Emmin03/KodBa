@@ -1,6 +1,0 @@
-@JobNestapp_HostAddress = http://localhost:5152
-
-GET {{JobNestapp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
