@@ -1,50 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\",
+  "WorkspaceRootPath": "C:\\Users\\DT User\\Desktop\\JobNestapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\migrations\\20250418084331_addapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\migrations\\20250418084331_addapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\jobnestapp\\jobnestapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|c:\\users\\dt user\\desktop\\kodba\\jobnestapp\\jobnestapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41822E9E-DDCD-4225-8CEB-6520DDB945D4}|JobNestapp\\JobNestapp.csproj|solutionrelative:jobnestapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,17 +34,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\appsettings.json",
+              "RelativeDocumentMoniker": "JobNestapp\\appsettings.json",
+              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\appsettings.json",
+              "RelativeToolTip": "JobNestapp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T20:06:33.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Program.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Program.cs",
+              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Program.cs",
+              "RelativeToolTip": "JobNestapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:06:04.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JobNestapp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JobNestapp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:05:44.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "JwtService.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Services\\JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "JobNestapp\\Services\\JwtService.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Services\\JwtService.cs",
               "RelativeToolTip": "JobNestapp\\Services\\JwtService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowB8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T20:04:44.227Z",
               "EditorCaption": ""
@@ -72,131 +91,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\appsettings.json",
-              "RelativeDocumentMoniker": "JobNestapp\\appsettings.json",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\appsettings.json",
-              "RelativeToolTip": "JobNestapp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-09T20:06:33.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Job.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Models\\Job.cs",
-              "RelativeDocumentMoniker": "JobNestapp\\Models\\Job.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Models\\Job.cs",
-              "RelativeToolTip": "JobNestapp\\Models\\Job.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T07:52:51.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Program.cs",
-              "RelativeDocumentMoniker": "JobNestapp\\Program.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Program.cs",
-              "RelativeToolTip": "JobNestapp\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAwEwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T20:06:04.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JobsController.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Controllers\\JobsController.cs",
-              "RelativeDocumentMoniker": "JobNestapp\\Controllers\\JobsController.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Controllers\\JobsController.cs",
-              "RelativeToolTip": "JobNestapp\\Controllers\\JobsController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T07:57:47.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "JobNestapp\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Data\\AppDbContext.cs",
               "RelativeToolTip": "JobNestapp\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T20:02:47.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "JobNestapp\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "JobNestapp\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAswDgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T20:05:44.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationsController.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Controllers\\ApplicationsController.cs",
-              "RelativeDocumentMoniker": "JobNestapp\\Controllers\\ApplicationsController.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Controllers\\ApplicationsController.cs",
-              "RelativeToolTip": "JobNestapp\\Controllers\\ApplicationsController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:35:55.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250418084331_AddApplications.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Migrations\\20250418084331_AddApplications.cs",
-              "RelativeDocumentMoniker": "JobNestapp\\Migrations\\20250418084331_AddApplications.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Migrations\\20250418084331_AddApplications.cs",
-              "RelativeToolTip": "JobNestapp\\Migrations\\20250418084331_AddApplications.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAkwGUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T08:43:32.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Models\\User.cs",
               "RelativeDocumentMoniker": "JobNestapp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DT User\\Desktop\\JobNestapp\\JobNestapp\\Models\\User.cs",
               "RelativeToolTip": "JobNestapp\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T20:01:10.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Application.cs",
-              "DocumentMoniker": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Models\\Application.cs",
-              "RelativeDocumentMoniker": "JobNestapp\\Models\\Application.cs",
-              "ToolTip": "C:\\Users\\DT User\\Desktop\\KodBa\\JobNestapp\\JobNestapp\\Models\\Application.cs",
-              "RelativeToolTip": "JobNestapp\\Models\\Application.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T07:53:55.308Z",
               "EditorCaption": ""
             }
           ]
